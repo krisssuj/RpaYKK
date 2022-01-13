@@ -1,0 +1,13 @@
+﻿{
+  "Id": "VKuWm-r2T0iGFLg5vq5zsw",
+  "Reference": "bSLTQecXS0qNgdHJ4ZHpTg/VKuWm-r2T0iGFLg5vq5zsw",
+  "ParentRef": "bSLTQecXS0qNgdHJ4ZHpTg/AXRkqhLXEEK2D9Z6ejpi0g",
+  "Name": "7",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-01-13T16:42:47.4431225Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T16:42:47.4431225Z"
+}

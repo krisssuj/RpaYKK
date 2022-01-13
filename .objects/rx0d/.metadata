@@ -1,0 +1,11 @@
+﻿{
+  "Id": "rx0dqq10iEe4kptAjYI8Rg",
+  "Reference": "bSLTQecXS0qNgdHJ4ZHpTg/rx0dqq10iEe4kptAjYI8Rg",
+  "Name": "UiDemo app",
+  "Type": "App",
+  "Created": "2022-01-13T16:44:57.4984844Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T16:44:57.4984844Z"
+}

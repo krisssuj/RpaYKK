@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="N9BxO36hH02azA-iPCkA9g" DesignTimeRectangle="71, 185, 43, 33" ElementType="Button" FriendlyName="'Clear entry'" FullSelectorArgument="&lt;wnd ctrlid='82' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='82' check:text='Clear entry' /&gt;" Guid="5ebbd392-f602-4ce1-8183-958fa3bdee1f" ScopeSelectorArgument="&lt;wnd app='calc.exe' cls='CalcFrame' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">05OywkXaOkUCZaA34LhedBA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="aaa53e1e20e49f2bbda34a97761119f3.png" xmlns="">0S0dT2JmUZkGiPJ0SSxcM3w</imageRef>
+</TargetAnchorable>

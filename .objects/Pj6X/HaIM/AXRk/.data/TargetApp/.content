@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="4OxAciL5E0W4gXXL4nzsCA" FilePath="C:\Windows\system32\calc.exe" Selector="&lt;wnd app='calc.exe' cls='CalcFrame' title='Calculator' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0JKRpQfzIMkWdu0m1Ou50CA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ba16dd54f92de264291d481dd665b597.png" xmlns="">0_Qxlw-s_FkaymR1UfruqtA</imageRef>
+</TargetApp>

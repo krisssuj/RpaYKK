@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="JNTtr114hkidJqEBPIG_Ig" FilePath="C:\Users\MSI\Downloads\Compressed\uidemo.exe" Selector="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UiDemo' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Xb46oRbU4k-v3ZIGgPTdWg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e0e417bd8460fe4bdca4aa2a6fb3cd04.png" xmlns="">03V8kbY4f7kqVHEhxku7m5w</imageRef>
+</TargetApp>

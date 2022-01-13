@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="pjGatvXqS0mNHf7cRjmKfw" DesignTimeRectangle="22, 185, 43, 33" ElementType="Button" FriendlyName="'Backspace'" FullSelectorArgument="&lt;wnd ctrlid='83' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='83' check:text='Backspace' /&gt;" Guid="82984322-2c24-47da-8352-2a52e8ff335b" ScopeSelectorArgument="&lt;wnd app='calc.exe' cls='CalcFrame' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0X00XT5fs8kqYx2kiAQUYJA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6bdbf5901b3d586f262970a0b1ff2b96.png" xmlns="">0MzuLzSMx90OAgQSeyatEnA</imageRef>
+</TargetAnchorable>

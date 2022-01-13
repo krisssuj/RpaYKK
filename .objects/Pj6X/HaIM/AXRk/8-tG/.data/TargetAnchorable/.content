@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="H1z_CK32wUydR4ijdnPuAA" DesignTimeRectangle="22, 145, 43, 33" ElementType="Button" FriendlyName="'Memory clear'" FullSelectorArgument="&lt;wnd ctrlid='122' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='122' check:text='Memory clear' /&gt;" Guid="f6f9ccc6-9e48-4e1e-918c-1f6135004ac2" ScopeSelectorArgument="&lt;wnd app='calc.exe' cls='CalcFrame' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0h_o_5kOc4ECgS7X9bEIQxg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="afcf114968592cf51e4333d0885f9db7.png" xmlns="">00by2AWGy5Eisoqrkyyp2sw</imageRef>
+</TargetAnchorable>

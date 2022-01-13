@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="pBw5ETpxV0qKi54IOXUVhQ" DesignTimeRectangle="71, 305, 43, 33" ElementType="Button" FriendlyName="'2'" FullSelectorArgument="&lt;wnd ctrlid='132' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='132' check:text='2' /&gt;" Guid="e0f6861d-9dae-4414-9d22-c2dbdd9ae626" ScopeSelectorArgument="&lt;wnd app='calc.exe' cls='CalcFrame' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0eqVfutb6M0WueqBTKM3fxg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9e266728f637d8ddd49b626e433a61c7.png" xmlns="">0gSIH6iQwcES3gjCTpGxdDg</imageRef>
+</TargetAnchorable>

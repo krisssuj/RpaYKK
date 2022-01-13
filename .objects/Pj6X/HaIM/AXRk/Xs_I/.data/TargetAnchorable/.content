@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="PYJBI81hMkKdEy4__8YMsw" DesignTimeRectangle="71, 145, 43, 33" ElementType="Button" FriendlyName="'Memory recall'" FullSelectorArgument="&lt;wnd ctrlid='123' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='123' check:text='Memory recall' /&gt;" Guid="18dc4afd-f84c-41b4-9786-4b80f617e787" ScopeSelectorArgument="&lt;wnd app='calc.exe' cls='CalcFrame' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0PiddQpT3F0yXe4R10K3LVg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cece7d5b2a41f60ee6ca25248a608eee.png" xmlns="">0XWKYiztgeEGgRNfY8sUuCg</imageRef>
+</TargetAnchorable>

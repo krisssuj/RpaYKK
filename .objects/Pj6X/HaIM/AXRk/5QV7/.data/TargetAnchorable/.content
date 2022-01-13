@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Pwi3hPCZAEakfPlHv6PAtg" DesignTimeRectangle="9, 9, 28, 28" FriendlyName="'System'" FullSelectorArgument="&lt;ctrl automationid='MenuBar' /&gt;&lt;ctrl name='System' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='MenuBar' /&gt;&lt;ctrl name='System' role='menu item' automationid='' check:text='System' /&gt;" Guid="ce76d94c-475d-47b3-9074-2a714b24b2e1" ScopeSelectorArgument="&lt;wnd app='calc.exe' cls='CalcFrame' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">08pF-tLQRYEmzriu0XCLePg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c7901a3ade331df2d4f695ab4d65e658.png" xmlns="">09xhWo6k5oU6p2h2gi8m5hQ</imageRef>
+</TargetAnchorable>
